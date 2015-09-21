@@ -1,6 +1,6 @@
 # TestGlances
 
-Glances bugs in watchOS 2
+Glances bugs in watchOS 2 (Bug 22786396)
 
 When loading this glance in the simulator, I see a never ending spinner. 
 
